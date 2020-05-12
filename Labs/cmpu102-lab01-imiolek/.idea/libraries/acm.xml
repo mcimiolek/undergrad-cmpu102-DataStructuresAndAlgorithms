@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="acm">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/extern-lib/acm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Assignments/cmpu102-assignment06-imiolek/external-lib/acm.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
